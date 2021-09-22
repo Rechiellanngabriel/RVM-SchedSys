@@ -13,3 +13,7 @@
 	text-overflow: ellipsis; 
 	max-width: 100ch;
 }
+
+.theme-bg-wb {
+  background-image: linear-gradient(white, blue);
+}
