@@ -77,7 +77,7 @@
 
 				
 				<div class="my-2 my-md-3">
-				    <a class="btn btn-primary" href="https://web.facebook.com/CollegeOfSciencesPSU" target="_blank">Find out more!</a>
+				    <a class="btn btn-primary" href="https://puertoprincesa.ph/" target="_blank">Find out more!</a>
 				</div>
 			</div>
 		</nav>
@@ -91,7 +91,7 @@
 		    </div><!--//container-->
 	    </section>
 	    <section class="blog-list px-3 py-5 p-md-5">
-			<div class="border border-top-0 border-left-0 border-right-0 pl-3 mb-3">
+			<div class="border border-top-0 border-left-0 border-right-0 pl-3 mb-5">
 			</div><!--Sports Facility-->
 		    <div class="container">
 			    
