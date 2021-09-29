@@ -54,23 +54,23 @@
 				
 				<ul class="navbar-nav flex-column text-left">
 					<li class="nav-item active">
-					    <a class="nav-link" href="index.php">Home<span class="sr-only">(current)</span></a>
+						
+					    <a class="nav-link" i="fa" href="index.php"><i class="fa fa-home"></i> Home<span class="sr-only">(current)</span></a>
+					</li>
+					<li class="nav-item">
+					    <a class="nav-link" href="index.php"><i class="fa fa-building"></i>	Facility<span class="sr-only"></span></a>
 					</li>
 
 					<li class="nav-item">
-					    <a class="nav-link" href="index.php">Facility<span class="sr-only"></span></a>
+					    <a class="nav-link" href="index.php"><i class="fa fa-calendar"></i>	Schedules<span class="sr-only"></span></a>
 					</li>
 
 					<li class="nav-item">
-					    <a class="nav-link" href="index.php">Schedules<span class="sr-only"></span></a>
+					    <a class="nav-link" href="index.php"><i class="fa fa-envelope"></i>	Request<span class="sr-only"></span></a>
 					</li>
 
 					<li class="nav-item">
-					    <a class="nav-link" href="index.php">Request<span class="sr-only"></span></a>
-					</li>
-
-					<li class="nav-item">
-					    <a class="nav-link" href="index.php">About Us<span class="sr-only"></span></a>
+					    <a class="nav-link" href="index.php"><i class="fa fa-question"></i>	About Us<span class="sr-only"></span></a>
 					</li>
 
 				</ul>
