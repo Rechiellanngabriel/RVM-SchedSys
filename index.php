@@ -98,7 +98,7 @@
 				    <div class="media">
 					    <img class="mr-3 img-fluid post-thumb d-none d-md-flex border border-light" src="assets/images/blog/iHELP_portrait.png" alt="image">
 					    <div class="media-body">
-						    <h3 class="title mb-1"><a href="thesis-post-04.php">The iHELP mobile application</a></h3>
+						    <h3 class="title mb-1"><a href="thesis-post-04.php">RVMSys</a></h3>
 							<div class="mb-1"><span class="tags">Tags: </span><span class="tag-word"><a href="#">mobile</a>, <a href="#">development</a>, <a href="#">application</a></span></div>
 							<div class="meta mb-1"><span class="date">Posted 4 days ago by admin</span><span class="comment"><a href="#">2 comments</a></span></div>
 						    <div class="intro">iHELP: information about Health Advisory of COVID-19,
