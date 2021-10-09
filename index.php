@@ -93,21 +93,24 @@
 			<div class="border border-top-0 border-left-0 border-right-0 pl-3 mb-5">
 			</div><!--Sports Facility-->
 		    <div class="container">
+
+			<div class="view-content">
+      
+  <div class="skin-default views-slideshow-cycle-processed">
+          <div class="views-slideshow-controls-top clearfix">
+        <div id="views_slideshow_controls_text_top_banner-block_1_1" class="views-slideshow-controls-text views_slideshow_controls_text">
+  <span id="views_slideshow_controls_text_previous_top_banner-block_1_1" class="views-slideshow-controls-text-previous views_slideshow_controls_text_previous views-slideshow-controls-text-previous-processed">
+  <a href="#" rel="prev">Previous</a>
+</span>
+  <span id="views_slideshow_controls_text_pause_top_banner-block_1_1" class="views-slideshow-controls-text-pause views_slideshow_controls_text_pause  views-slideshow-controls-text-pause-processed views-slideshow-controls-text-status-play"><a href="#">Pause</a></span>
+  <span id="views_slideshow_controls_text_next_top_banner-block_1_1" class="views-slideshow-controls-text-next views_slideshow_controls_text_next views-slideshow-controls-text-next-processed">
+  <a href="#" rel="next">Next</a>
+</span>
+</div>
 			    
-				<div class="item mb-5">
-				    <div class="media">
-					    <img class="mr-3 img-fluid post-thumb d-none d-md-flex border border-light" src="assets/images/blog/iHELP_portrait.png" alt="image">
-					    <div class="media-body">
-						    <h3 class="title mb-1"><a href="thesis-post-04.php">RVMSys</a></h3>
-							<div class="mb-1"><span class="tags">Tags: </span><span class="tag-word"><a href="#">mobile</a>, <a href="#">development</a>, <a href="#">application</a></span></div>
-							<div class="meta mb-1"><span class="date">Posted 4 days ago by admin</span><span class="comment"><a href="#">2 comments</a></span></div>
-						    <div class="intro">iHELP: information about Health Advisory of COVID-19,
-								Emergency Call Hotlines, Learning First-Aid, and Preparedness in Disaster and Emergency.
-								The iHELP aims to keep you ready and prepare for any disaster. It is your Healthcare and Emergency Companion. SIMPLE, EASY, and CONVENIENT...</div>
-						    <a class="more-link" href="thesis-post-04.php">Read more &rarr;</a>
-					    </div><!--//media-body-->
-				    </div><!--//media-->
-			    </div><!--//item-->
+			<div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd">
+    
+	<img typeof="foaf:Image" src="assets\images\city hall.jpg" width="915" height="348" alt="">  </div>
 				
 		    </div>
 	    </section>
